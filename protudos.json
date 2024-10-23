@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "Calça Jeans",
+    "tamanho": 42,
+    "preco": 139.99,
+    "imagem": "img/tescalcajeans.jpeg"
+  },
+  {
+    "nome": "Calça Alfaiataria",
+    "tamanho": "PP ao EXG",
+    "preco": 135.99,
+    "imagem": "img/calcaalfaiataria.webp"
+  },
+  {
+    "nome": "Calça Cargo",
+    "tamanho": "PP ao EXG",
+    "preco": 99.99,
+    "imagem": "img/calcacargo.jpeg"
+  },
+  {
+    "nome": "Calça Moletom",
+    "tamanho": "PP ao EXG",
+    "preco": 49.99,
+    "imagem": "img/calcamoletom.webp"
+  },
+  {
+    "nome": "Camiseta Basica",
+    "tamanho": "PP ao EXG",
+    "preco": 25.00,
+    "imagem": "img/camisabasica.jpeg"
+  },
+  {
+    "nome":"Cropped camiseta",
+    "tamanho": "PP ao EXG",
+    "preco": 54.99,
+    "imagem": "img/camisetacropped.jpg"
+  },
+  {
+    "nome":"Moletom",
+    "tamanho": "PP ao EXG",
+    "preco": 129.99,
+    "imagem": "img/moletom.jpg"
+  },
+  {
+    "nome":"Tenis all star",
+    "tamanho": "20 ao 40",
+    "preco": 299.99,
+    "imagem": "img/allstarsa.jpg"
+  }
+]
